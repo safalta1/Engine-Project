@@ -1,4 +1,4 @@
-# AutoComplete-Engine-Project
+
 
 ## Background:
 In order to make typing on a mobile device quick and easy, an autocomplete
